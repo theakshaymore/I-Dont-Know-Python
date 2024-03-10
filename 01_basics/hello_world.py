@@ -6,3 +6,7 @@ def Monica(n):
     print(n)
 
 Monica(4)
+
+vari1 = 1
+vari2 = 2
+vari3 = 3
